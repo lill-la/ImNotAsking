@@ -4,8 +4,8 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 
 ## Screenshots
 Removes the 'Ask to join' buttons shown here.
-![Image](https://github.com/user-attachments/assets/e9d2f071-470e-42e1-8bdd-502d5986fbee)
 
+![Image](https://github.com/user-attachments/assets/e9d2f071-470e-42e1-8bdd-502d5986fbee)
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
