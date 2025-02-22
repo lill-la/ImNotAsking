@@ -1,11 +1,10 @@
-# ExampleMod
+# ImNotAsking
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that hides the 'Ask to join' button on the contacts list. See: https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/3781
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.
+See: https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/3781
 
 ## Screenshots
-Removes the 'Ask to join' buttons shown here.
-
-![Image](https://github.com/user-attachments/assets/e9d2f071-470e-42e1-8bdd-502d5986fbee)
+![Image](https://github.com/user-attachments/assets/62f92971-6bb9-46af-8048-7aa08d2d133b)
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
