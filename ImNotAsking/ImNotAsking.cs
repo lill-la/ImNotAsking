@@ -10,7 +10,7 @@ public class ImNotAsking : ResoniteMod {
 	public override string Name => "ImNotAsking";
 	public override string Author => "Delta";
 	public override string Version => VERSION_CONSTANT;
-	public override string Link => "https://github.com/XDelta/ImNotAsking";
+	public override string Link => "https://github.com/lill-la/ImNotAsking";
 
 	[AutoRegisterConfigKey]
 	private static readonly ModConfigurationKey<bool> HideAsk = new("HideAsk", "Hide the 'Ask to join' button on the contacts list", () => true);
@@ -21,7 +21,7 @@ public class ImNotAsking : ResoniteMod {
 		Config = GetConfiguration();
 		Config.Save(true);
 
-		Harmony harmony = new("net.deltawolf.ImNotAsking");
+		Harmony harmony = new("la.lill.ImNotAsking");
 		harmony.PatchAll();
 	}
 
