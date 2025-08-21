@@ -33,15 +33,15 @@
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="FrooxEngine" Publicize="true">
-			<HintPath>$(ResonitePath)Resonite_Data\Managed\FrooxEngine.dll</HintPath>
+			<HintPath>$(ResonitePath)FrooxEngine.dll</HintPath>
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="SkyFrost.Base" Publicize="true">
-			<HintPath>$(ResonitePath)Resonite_Data\Managed\SkyFrost.Base.dll</HintPath>
+			<HintPath>$(ResonitePath)SkyFrost.Base.dll</HintPath>
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="SkyFrost.Base.Models" Publicize="true">
-			<HintPath>$(ResonitePath)Resonite_Data\Managed\SkyFrost.Base.Models.dll</HintPath>
+			<HintPath>$(ResonitePath)SkyFrost.Base.Models.dll</HintPath>
 			<Private>False</Private>
 		</Reference>
 	</ItemGroup>
