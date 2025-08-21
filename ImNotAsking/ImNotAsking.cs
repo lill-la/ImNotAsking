@@ -6,7 +6,7 @@ using SkyFrost.Base;
 namespace ImNotAsking;
 
 public class ImNotAsking : ResoniteMod {
-	internal const string VERSION_CONSTANT = "1.0.0";
+	internal const string VERSION_CONSTANT = "1.0.1";
 	public override string Name => "ImNotAsking";
 	public override string Author => "Delta";
 	public override string Version => VERSION_CONSTANT;
